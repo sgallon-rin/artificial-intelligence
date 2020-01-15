@@ -1,19 +1,17 @@
-## labs of the course
-### 1. 
-__Description__
+# labs of the course
+All labs have given templates, all you need is to fill in th blanks of some key functions.
 
+## 1. Searching: Uniform Cost Search(UCS)
+### Description
 Write a program for uniform cost search. Find and print the minimum cost path from 'Start' node to 'Goal' node. If there is no answer, please print "Unreachable".
 
-__Input__
-
+### Input
 Each line presents an edge consisting of a tuple of start node, end node and cost. Input ends with 'END'.
 
-__Output__
-
+### Output
 One line for the optimal path in visit order, join by '->'.
 
-__Input Sample__
-
+### Input Sample
 Start A 2
 
 Start B 1
@@ -34,8 +32,11 @@ D Goal 4
 
 END
 
-__Output sample__
-
+#### Output sample
 Start->A->D->Goal
 
-### 2.
+## 2.
+
+## 3.
+
+## 4.
