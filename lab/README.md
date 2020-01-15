@@ -1,5 +1,5 @@
-# labs of the course
-All labs have given templates, all you need is to fill in th blanks of some key functions.
+# In-class Labs
+All labs have given templates, all you need is to fill in th blanks in some key functions.
 
 ## 1. Searching: Uniform Cost Search(UCS)
 ### Description
