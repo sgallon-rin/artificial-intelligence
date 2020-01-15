@@ -34,7 +34,7 @@ D Goal 4
 
 END
 
-#### Output sample
+### Output sample
 Start->A->D->Goal
 
 ## 2. Searching: Alpha-Beta Pruning
