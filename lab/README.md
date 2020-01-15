@@ -1,5 +1,7 @@
 # In-class Labs
-All labs have given templates, all you need is to fill in th blanks in some key functions.
+Each lab has a template, all you need is to fill in th blanks in some key functions.
+ 
+Online evaluation site is [here](http://10.88.3.61)(Unfortunately, you MUST connect the Fudan campus network otherwise you'll have no access to it.)
 
 ## 1. Searching: Uniform Cost Search(UCS)
 ### Description
@@ -35,8 +37,17 @@ END
 #### Output sample
 Start->A->D->Goal
 
-## 2.
+## 2. Searching: Alpha-Beta Pruning
+Implement the following 3 functions:
 
-## 3.
+`def get_value(node, alpha, beta)`
 
-## 4.
+* Choose which function to call
+
+`def max_value(node, alpha, beta)`
+
+`def min_value(node, alpha, beta)`
+
+## 3. Reinforcement Learning: Gridworld
+
+## 4. Probabilistic Graphical Model: Exact Inference
