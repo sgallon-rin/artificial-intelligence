@@ -55,7 +55,7 @@ Solve the Grid World Problem based on MDP
 ### Requirement:
 Print the iteration numbers and optimal values of all states using value iteration and policy iteration
 
-### Address: [here](http://10.88.3.61/problem.php?cid=1003&pid=0)
+### Address: [here](http://10.88.3.61/problem.php?cid=1003&pid=0)(requires Fudan campus network)
 
 ## 4. Probabilistic Graphical Model: Exact Inference
 ### Review on exact inference algorithm:
