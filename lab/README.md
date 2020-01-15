@@ -1,7 +1,7 @@
 # In-class Labs
 Each lab has a template, all you need is to fill in th blanks in some key functions.
  
-Online evaluation site is [here](http://10.88.3.61)(Unfortunately, you MUST connect the Fudan campus network otherwise you'll have no access to it.)
+Online evaluation site is [here](http://10.88.3.61)(Unfortunately, you MUST connect the Fudan campus network.)
 
 ## 1. Searching: Uniform Cost Search(UCS)
 ### Description
@@ -49,5 +49,29 @@ Implement the following 3 functions:
 `def min_value(node, alpha, beta)`
 
 ## 3. Reinforcement Learning: Gridworld
+### Problem:
+Solve the Grid World Problem based on MDP
+
+### Requirement:
+Print the iteration numbers and optimal values of all states using value iteration and policy iteration
+
+### Address: [here](http://10.88.3.61/problem.php?cid=1003&pid=0)
 
 ## 4. Probabilistic Graphical Model: Exact Inference
+### Review on exact inference algorithm:
+#### Example: MaryCall , JohnCall in Ch14 of textbook
+#### Enumeration algorithm:
+• Step 1: Select the entries consistent with the evidence
+
+• Step 2: Sum out hidden vars to get joint of Query and evidence
+
+• Step 3: Normalize
+
+#### Elimination algorithm:
+• Make factors
+
+• Join all factors and eliminate all hidden vars
+
+
+
+
