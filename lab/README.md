@@ -1,7 +1,7 @@
 # In-class Labs
 Each lab has a template, all you need is to fill in th blanks in some key functions.
  
-Online evaluation site is [here](http://10.88.3.61)(Unfortunately, you MUST connect the Fudan campus network.)
+Online evaluation and task description site is [here](http://10.88.3.61)(Unfortunately, you MUST connect the Fudan campus network.)
 
 ## 1. Searching: Uniform Cost Search(UCS)
 ### Description
