@@ -17,7 +17,9 @@
 这两种更新方法会收敛到同样的最优状态值，但是迭代次数不同。
 
 ### sample input:
+[0,1] [4,1] 10.0
 
+[0,3] [2,3] 5.0
 
 ### sample output:
 __For synchronous version:__
