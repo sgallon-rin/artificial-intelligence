@@ -1,5 +1,4 @@
-Lab 2:
-Searching: Alpha-Beta Pruning
+Lab 2: Searching: Alpha-Beta Pruning
 
 files:
 alpha_beta_pruning_template.py  template
